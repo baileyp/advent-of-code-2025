@@ -33,3 +33,4 @@ ruby bin/run.rb 1 1
 - [Day 4](./notes/day04.md)
 - [Day 5](./notes/day05.md)
 - [Day 6](./notes/day06.md)
+- [Day 7](./notes/day07.md)
